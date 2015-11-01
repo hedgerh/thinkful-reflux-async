@@ -4,6 +4,7 @@
   "description": "Boilerplate for ReactJS project with hot code reloading",
   "scripts": {
     "start": "node server.js",
+    "watch": "webpack --watch",
     "lint": "eslint src"
   },
   "repository": {
